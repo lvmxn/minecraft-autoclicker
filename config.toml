@@ -1,0 +1,7 @@
+# Hotkeys (use '+' for combinations, e.g., 'ctrl+shift+f6')
+off_hotkey = "f6"
+pickaxe_hotkey = "f7"
+sword_hotkey = "f8"
+
+# Timing
+interval = 1.0
